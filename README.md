@@ -12,3 +12,16 @@ DESCRIPTION: Dave ruined the code for the DFV starship registry system. Please h
 [0da7785b7b6125beabc9b3eba9ae68ff](https://storage.googleapis.com/b0ctf-deploy/dfv.tgz)
 
 Author: nsnc
+
+
+
+NAME: Jumpdrive
+CATEGORY: 100
+POINTSPWN
+DESCRIPTION: Dave is running away from security at the DFV. Help him reach safety
+
+`nc pwn.ctf.b01lers.com 1002`
+
+[53542656d8f6b156e6a8acd15cb57f49](https://storage.googleapis.com/b0ctf-deploy/jumpdrive.tgz)
+
+Author: maczilla + akhbaar
