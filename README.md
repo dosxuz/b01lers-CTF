@@ -25,3 +25,16 @@ DESCRIPTION: Dave is running away from security at the DFV. Help him reach safet
 [53542656d8f6b156e6a8acd15cb57f49](https://storage.googleapis.com/b0ctf-deploy/jumpdrive.tgz)
 
 Author: maczilla + akhbaar
+
+
+
+NAME: Tweet Raider
+CATEGORY: 100
+POINTSPWN
+DESCRIPTION: Dave bought a self driving starship! Ever since he has been strangely enthralled with Mlon Eusk's Tweets. Help Dave get a response from Mlon himself
+
+`nc pwn.ctf.b01lers.com 1004`
+
+[d5a1b2a7ba5c87cc669f96a83f2ea2b5](https://storage.googleapis.com/b0ctf-deploy/tweet-raider.tgz)
+
+Author: nsnc
